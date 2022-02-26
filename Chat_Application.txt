@@ -7,7 +7,11 @@ public static void main(string[] args){
 3.Last Seen
 4.Attachments
 5.Hiding the Last Seen
-6.Adding Status
+6.Adding the audiocall feature
+7.Adding the video call.
+8.New Feature.
+9.Adding Status.
+
 
 
 }
