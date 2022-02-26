@@ -5,7 +5,7 @@ public static void main(string[] args){
 1.Profile Page
 2.Chat box
 3.Last Seen
-4.Attachments
+4.Attachments(jpg,png,docx,doc,xlsx,xlx,pdf,zip)
 5.Hiding the Last Seen
 6.Adding the audiocall feature
 7.Adding the video call.
